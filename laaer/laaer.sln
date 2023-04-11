@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laaer", "Laaer\Laaer.vcxproj", "{A325B2F3-5985-4C4A-9947-C544876A7B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A325B2F3-5985-4C4A-9947-C544876A7B67}.Debug|x64.ActiveCfg = Release|x64
+		{A325B2F3-5985-4C4A-9947-C544876A7B67}.Debug|x64.Build.0 = Release|x64
+		{A325B2F3-5985-4C4A-9947-C544876A7B67}.Release|x64.ActiveCfg = Release|x64
+		{A325B2F3-5985-4C4A-9947-C544876A7B67}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29BBD492-465A-4AFC-8B03-EBD5F4AB717D}
+	EndGlobalSection
+EndGlobal
